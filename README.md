@@ -26,13 +26,30 @@ https://8s6yjmel.mule.page/
 
 [Paper Trading History](docs/astra-paper-trades-1782315118564.csv)
 
+
 ## Signal History 
 
 [Signal History](docs/astra-history-1782315898323.csv)
 
+
 ## Trade Statistics
+
 - Total trades: 2
 - Win rate: 100.0%
 - Net PnL: $3.69
 - Best trade: BTC $2.69
+
+## Tech Stack
+
+| Layer | Stack |
+|---|---|
+| Build Approach | MuleRun-driven web build workflow  |
+| Frontend | HTML, CSS, JavaScript  |
+| Backend | Node.js, Express  |
+| Charts | Chart.js, Lightweight Charts  |
+| Market Data Core | Bitget public APIs  |
+| Metadata and Context | CoinGecko, alternative sentiment/global sources  |
+| Token Discovery | DexScreener  |
+| Token Security | GoPlus, Honeypot-style audit integration  |
+
 
