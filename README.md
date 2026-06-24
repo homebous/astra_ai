@@ -10,7 +10,7 @@ From the main navigation alone, the application exposes dedicated modules for Ma
 
 ## Product Vision
 
-The project appears to target traders who want one workspace for discovery, analysis, planning, simulation, and review. Instead of splitting those tasks across separate tools, Astra AI keeps them in a single interface where users can move from watchlist monitoring to signal inspection, then into setup generation and paper trade execution [file:26][file:28].
+The project appears to target traders who want one workspace for discovery, analysis, planning, simulation, and review. Instead of splitting those tasks across separate tools, Astra AI keeps them in a single interface where users can move from watchlist monitoring to signal inspection, then into setup generation and paper trade execution.
 
 This design direction is visible in the shared data model as well. The frontend persists watchlists, trades, alerts, positions, balance, and history in browser storage, while the server remains stateless and focused on fetching, computing, and returning market intelligence on demand
 
