@@ -44,9 +44,6 @@ https://8s6yjmel.mule.page/
 | Layer | Stack |
 |---|---|
 | Build Approach | MuleRun-driven web build workflow  |
-| Frontend | HTML, CSS, JavaScript  |
-| Backend | Node.js, Express  |
-| Charts | Chart.js, Lightweight Charts  |
 | Market Data Core | Bitget public APIs  |
 | Metadata and Context | CoinGecko, alternative sentiment/global sources  |
 | Token Discovery | DexScreener  |
