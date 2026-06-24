@@ -6,7 +6,7 @@ AI-powered crypto trading intelligence dashboard for market monitoring, multi-fa
 
 Astra AI is designed as more than a price dashboard. The project combines a market terminal, explainable signal engine, futures setup assistant, paper trading simulator, news intelligence layer, and historical action logging into one product workflow
 
-From the main navigation alone, the application exposes dedicated modules for Markets, Signal Lab, Futures, Portfolio, Meme Hunter, News, History, and Help, which makes the repository read like a productized trading assistant rather than a simple charting demo [file:26]. The backend further reinforces this by exposing API routes for signal generation, multi-timeframe confluence, scenarios, backtests, deep analysis, position sizing, movers/losers, token security review, CoinGecko fundamentals, and Bitget-derived market data.
+From the main navigation alone, the application exposes dedicated modules for Markets, Signal Lab, Futures, Portfolio, Meme Hunter, News, History, and Help, which makes the repository read like a productized trading assistant rather than a simple charting demo. The backend further reinforces this by exposing API routes for signal generation, multi-timeframe confluence, scenarios, backtests, deep analysis, position sizing, movers/losers, token security review, CoinGecko fundamentals, and Bitget-derived market data.
 
 ## Product Vision
 
