@@ -49,4 +49,16 @@ https://8s6yjmel.mule.page/
 | Token Discovery | DexScreener  |
 | Token Security | GoPlus, Honeypot-style audit integration  |
 
+## Bitget API Sources
+
+| Category | Endpoint | Purpose |
+|---|---|---|
+| Market Data | `GET /api/v2/spot/market/tickers?symbol=...` | Single-asset spot ticker data |
+| Market Data | `GET /api/v2/spot/market/tickers` | Full spot market scan, ranking, gainers, and losers |
+| Market Data | `GET /api/v2/spot/market/candles?symbol=...&granularity=...&limit=...` | Historical spot candles for technical analysis |
+| Market Data | `GET /api/v2/spot/public/symbols` | New listings and symbol discovery |
+| Futures Data | `GET /api/v2/mix/market/ticker?symbol=...&productType=USDT-FUTURES` | Futures ticker, funding rate, open interest, and mark price |
+| Futures Data | `GET /api/v2/mix/market/history-fund-rate?symbol=...&productType=USDT-FUTURES&pageSize=...` | Historical funding rate analysis |
+| Sentiment and Positioning | `GET /api/v2/mix/market/account-long-short?symbol=...&productType=USDT-FUTURES&period=...` | Long-short ratio for positioning and sentiment context |
+
 
