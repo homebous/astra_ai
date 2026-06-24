@@ -8,10 +8,12 @@ https://8s6yjmel.mule.page/
 <img src="docs/ss_paper_trade_open.jpg" width="900"> 
 
 ## Paper Trading History 
-<img src="docs/ss_paper_trade_history_1.jpg" width="900">
+<img src="docs/ss_paper_trade_history_1.jpg" width="900"> 
+
 [Paper Trading History](docs/astra-paper-trades-1782315118564.csv)
 
 ## Signal History 
+
 [Signal History](docs/astra-history-1782315898323.csv)
 
 ## Trade Statistics
