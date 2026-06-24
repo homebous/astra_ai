@@ -1,0 +1,2 @@
+timestamp_iso,placed_iso,opened_iso,closed_iso,pair,symbol,direction,order_type,leverage,entry_price,exit_price,qty,notional,margin,open_fee,close_fee,pnl_gross,pnl_net,balance_change,roe_pct,close_reason
+2026-06-24T15:31:32.866Z,2026-06-24T15:26:30.207Z,2026-06-24T15:26:30.207Z,2026-06-24T15:31:32.866Z,BTCUSDT,BTC,SHORT,MARKET,5,60891.79,60780,0.012316931395841705,750,150,0.375,0.3743115451196294,1.376909760741155,1.0025982156215254,1.0025982156215254,0.6683988104143503,MANUAL
