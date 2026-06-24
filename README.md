@@ -34,10 +34,12 @@ https://8s6yjmel.mule.page/
 
 ## Trade Statistics
 
-- Total trades: 2
-- Win rate: 100.0%
-- Net PnL: $3.69
-- Best trade: BTC $2.69
+| Metric | Value |
+|---|---:|
+| Total trades | 2 |
+| Win rate | 100.0% |
+| Net PnL | $3.69 |
+| Best trade | BTC $2.69 |
 
 ## Tech Stack
 
