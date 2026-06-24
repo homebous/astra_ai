@@ -1,7 +1,21 @@
 # Astra AI
-Astra AI is more than a dashboard, it’s a crypto intelligence agent that understands your trading goals. Using a multi-factor model of fundamentals, market sentiment, and price trends, Astra detects high-momentum assets early to help build a portfolio with stronger market-beating potential.
+
+AI-powered crypto trading intelligence dashboard for market monitoring, multi-factor signal analysis, futures setup generation, paper trading simulation, and cross-module activity logging. The project is presented as a 100% MuleRun-built web product with Bitget market integration at its core, supported by a static frontend and an Express backend that deliver trading workflows and market intelligence features.
+
+## Overview
+
+Astra AI is designed as more than a price dashboard. The project combines a market terminal, explainable signal engine, futures setup assistant, paper trading simulator, news intelligence layer, and historical action logging into one product workflow
+
+From the main navigation alone, the application exposes dedicated modules for Markets, Signal Lab, Futures, Portfolio, Meme Hunter, News, History, and Help, which makes the repository read like a productized trading assistant rather than a simple charting demo [file:26]. The backend further reinforces this by exposing API routes for signal generation, multi-timeframe confluence, scenarios, backtests, deep analysis, position sizing, movers/losers, token security review, CoinGecko fundamentals, and Bitget-derived market data.
+
+## Product Vision
+
+The project appears to target traders who want one workspace for discovery, analysis, planning, simulation, and review. Instead of splitting those tasks across separate tools, Astra AI keeps them in a single interface where users can move from watchlist monitoring to signal inspection, then into setup generation and paper trade execution [file:26][file:28].
+
+This design direction is visible in the shared data model as well. The frontend persists watchlists, trades, alerts, positions, balance, and history in browser storage, while the server remains stateless and focused on fetching, computing, and returning market intelligence on demand
 
 # Project Link
+
 https://8s6yjmel.mule.page/
 
 ## Paper Trading
