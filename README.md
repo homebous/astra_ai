@@ -17,7 +17,7 @@ This design direction is visible in the shared data model as well. The frontend 
 # Project Link
 
 | **ASTRA AI** | **https://8s6yjmel.mule.page** |
-|-|
+|---|---|
 
 ## Paper Trading
 <img src="docs/ss_paper_trade_open.jpg" width="900"> 
@@ -25,7 +25,6 @@ This design direction is visible in the shared data model as well. The frontend 
 ## Paper Trading History 
 <img src="docs/ss_paper_trade_history_1.jpg" width="900"> 
 
-|-|
 | [Paper Trading History](docs/astra-paper-trades-1782315118564.csv) |
 | [Paper Trading History](docs/astra-paper-trades-1782370694668.csv) |
 
