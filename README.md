@@ -28,6 +28,7 @@ This design direction is visible in the shared data model as well. The frontend 
 | [Paper Trading History](docs/astra-paper-trades-1782315118564.csv) |
 |---|
 | [Paper Trading History](docs/astra-paper-trades-1782370694668.csv) |
+|---|
 
 ## Trade Statistics
 
@@ -43,6 +44,7 @@ This design direction is visible in the shared data model as well. The frontend 
 | [Signal History](docs/astra-history-1782315898323.csv) |
 |---|
 | [Signal History](docs/astra-history-1782370802826.csv) |
+|---|
 
 ## Tech Stack
 
