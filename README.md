@@ -25,7 +25,8 @@ https://8s6yjmel.mule.page/
 <img src="docs/ss_paper_trade_history_1.jpg" width="900"> 
 
 [Paper Trading History](docs/astra-paper-trades-1782315118564.csv) 
-[Papaer Trading History](docs/astra-paper-trades-1782370694668.csv)
+
+[Paper Trading History](docs/astra-paper-trades-1782370694668.csv)
 
 ## Trade Statistics
 
