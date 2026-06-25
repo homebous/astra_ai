@@ -16,7 +16,7 @@ This design direction is visible in the shared data model as well. The frontend 
 
 # Project Link
 
-| Project | [**ASTRA AI**](https://8s6yjmel.mule.page/) |
+| **ASTRA AI** | **https://8s6yjmel.mule.page** |
 |---|---:|
 
 ## Paper Trading
