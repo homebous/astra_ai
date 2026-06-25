@@ -24,22 +24,22 @@ https://8s6yjmel.mule.page/
 ## Paper Trading History 
 <img src="docs/ss_paper_trade_history_1.jpg" width="900"> 
 
-[Paper Trading History](docs/astra-paper-trades-1782315118564.csv)
-
-
-## Signal History 
-
-[Signal History](docs/astra-history-1782315898323.csv)
-
+[Paper Trading History](docs/astra-paper-trades-1782315118564.csv) 
+[Papaer Trading History](docs/astra-paper-trades-1782370694668.csv)
 
 ## Trade Statistics
 
 | Metric | Value |
 |---|---:|
-| Total trades | 2 |
+| Total trades | 3 |
 | Win rate | 100.0% |
-| Net PnL | $3.69 |
-| Best trade | BTC $2.69 |
+| Net PnL | $30.28 |
+| Best trade | BTC $26.59 |
+
+## Signal History 
+
+[Signal History](docs/astra-history-1782315898323.csv)
+[Signal History](docs/astra-history-1782370802826.csv)
 
 ## Tech Stack
 
