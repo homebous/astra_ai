@@ -77,6 +77,6 @@ This design direction is visible in the shared data model as well. The frontend 
 | Sentiment and Positioning | `GET /api/v2/mix/market/account-long-short?symbol=...&productType=USDT-FUTURES&period=...` | Long-short ratio for positioning and sentiment context |
 
 ## Dev Logs
-| [Mulerun Logs](logs/mulerun_logs.md) |
-|-|
+| MuleRun | [Logs](logs/mulerun_logs.md) |
+|---|---|
 
