@@ -76,4 +76,7 @@ This design direction is visible in the shared data model as well. The frontend 
 | Futures Data | `GET /api/v2/mix/market/history-fund-rate?symbol=...&productType=USDT-FUTURES&pageSize=...` | Historical funding rate analysis |
 | Sentiment and Positioning | `GET /api/v2/mix/market/account-long-short?symbol=...&productType=USDT-FUTURES&period=...` | Long-short ratio for positioning and sentiment context |
 
+## Dev Logs
+| [Mulerun Logs](logs/mulerun_logs.md) |
+|-|
 
