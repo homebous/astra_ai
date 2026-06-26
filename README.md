@@ -31,14 +31,17 @@ This design direction is visible in the shared data model as well. The frontend 
 | [Paper Trading History](docs/astra-paper-trades-1782370694668.csv) |
 |---|
 
+| [Paper Trading History](docs/astra-paper-trades-1782448446434.csv) |
+|---|
+
 ## Trade Statistics
 
 | Metric | Value |
 |---|---|
-| Total trades | 3 |
-| Win rate | 100.0% |
-| Net PnL | $30.28 |
-| Best trade | BTC $26.59 |
+| Total trades | 6 |
+| Win rate | 83.3% |
+| Net PnL | $146.45 |
+| Best trade | BTC $131.08 |
 
 ## Signal History 
 
@@ -46,6 +49,9 @@ This design direction is visible in the shared data model as well. The frontend 
 |---|
 
 | [Signal History](docs/astra-history-1782370802826.csv) |
+|---|
+
+| [Signal History](docs/astra-history-1782448442680.csv) |
 |---|
 
 ## Tech Stack
