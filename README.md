@@ -25,34 +25,30 @@ This design direction is visible in the shared data model as well. The frontend 
 ## Paper Trading History 
 <img src="docs/ss_paper_trade_history_1.jpg" width="900"> 
 
+| History |
+|---|
 | [Paper Trading History](docs/astra-paper-trades-1782315118564.csv) |
-|---|
-
 | [Paper Trading History](docs/astra-paper-trades-1782370694668.csv) |
-|---|
-
 | [Paper Trading History](docs/astra-paper-trades-1782448446434.csv) |
-|---|
+| [Paper Trading History 26-06-2026](docs/astra-paper-trades-1782524962204.csv) |
 
 ## Trade Statistics
 
 | Metric | Value |
 |---|---|
-| Total trades | 6 |
-| Win rate | 83.3% |
-| Net PnL | $146.45 |
+| Total trades | 7 |
+| Win rate | 85.7% |
+| Net PnL | $165.43 |
 | Best trade | BTC $131.08 |
 
 ## Signal History 
 
+| History |
+|---|
 | [Signal History](docs/astra-history-1782315898323.csv) |
-|---|
-
 | [Signal History](docs/astra-history-1782370802826.csv) |
-|---|
-
 | [Signal History](docs/astra-history-1782448442680.csv) |
-|---|
+| [Signal History 26-06-2026](docs/astra-history-1782523417351.csv) |
 
 ## Tech Stack
 
@@ -77,6 +73,6 @@ This design direction is visible in the shared data model as well. The frontend 
 | Sentiment and Positioning | `GET /api/v2/mix/market/account-long-short?symbol=...&productType=USDT-FUTURES&period=...` | Long-short ratio for positioning and sentiment context |
 
 ## Dev Logs
-| MuleRun | [Logs](logs/mulerun_logs.md) |
+| MuleRun | [View Logs](logs/mulerun_logs.md) |
 |---|---|
 
