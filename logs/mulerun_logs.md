@@ -59,6 +59,7 @@ UI polish:
 Added .pb-card.neg, .pb-tag.neg, .pb-reasons styles; eval grid collapses to 2 cols on phones.
 Cards now show Why (reasons) when active and Blocked by (specific failing condition) when not — so users can see exactly why a playbook isn't firing.
 Verified live: trend_follow_ema returns eligible:true, side:SHORT with reasons; all 8 playbooks evaluate without errors.
+<br>
 <img src="/logs/src/update_improvement1.jpg" width="800">
 
 </details>
