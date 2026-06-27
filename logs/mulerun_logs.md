@@ -38,7 +38,7 @@
 <img src="/logs/src/continuous_improvement_astra_ai.jpg" width="800">
 <br>
 <br>
-<p2>## 27-06-2026 01:30 UTC</p2>
+<h2>## 27-06-2026 01:30 UTC</h2>
   
 Critical bugs fixed in the frontend (app.js):
 
