@@ -46,7 +46,7 @@ Astra AI provides multiple modules designed for different trading workflows:
 | Markets | Monitor price movement and market activity |
 | Signal Lab | Analyze trading signals using technical indicators |
 | Futures | Generate futures trade setups and scenarios |
-| Portfolio | Track positions and assets |
+| Portfolio | Spot Market Assets |
 | Meme Hunter | Discover trending meme coins |
 | News | Read crypto news and sentiment updates |
 | History | Review previous signals and trades |
