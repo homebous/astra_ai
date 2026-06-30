@@ -87,4 +87,16 @@ This section documents the development journey of **Astra AI**, from the initial
 
 <img src="/logs/src/update_improvement1.jpg" width="800">
 
+<br><br>
+
+### 📅 30-06-2026 — 00:50 UTC
+
+#### UI & Deployment Updates
+- Removed all emojis from the interface for a cleaner and more professional look
+- Removed **Copy**, **Bitget Web**, and **Bitget App** buttons
+- Added a single **Bitget** button that automatically copies trading levels and opens Bitget
+- Updated **EN / ZH / ID** labels to match the new button layout
+- Cleaned up CSS by removing unused icon-related styles
+- Synced latest changes to `/tmp/deploy` and redeployed successfully
+
 </details>
